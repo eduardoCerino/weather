@@ -1,3 +1,10 @@
+/* This is a CSS code that sets the default box-sizing to border-box, and sets the margin and padding
+of all elements to 0. It also imports two Google fonts, 'Outfit' and 'Poppins', and sets the
+font-family of the body to a list of fallback fonts followed by 'Outfit' and 'Poppins'. It also sets
+some styles for the app container, search input, and other elements. Additionally, it includes media
+queries for small devices with a maximum width of 600px, which adjust the styles of some elements to
+fit smaller screens. */
+
 *{
   box-sizing: border-box;
   margin: 0;
